@@ -1,5 +1,4 @@
 solids:
-  add_hello_to_world:
-    inputs:
-      word:
-        value: "Mars"
+  hello_with_config:
+    config:
+      language: "haw"
