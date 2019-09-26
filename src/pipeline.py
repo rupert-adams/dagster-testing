@@ -17,5 +17,5 @@ def hello_dagster_pipeline():
 
 
 if __name__ == '__main__':
-    result = execute_pipeline(hello_world_pipeline)
+    result = execute_pipeline(hello_dagster_pipeline)
     assert result.success
