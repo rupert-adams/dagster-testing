@@ -1,0 +1,5 @@
+solids:
+  add_hello_to_world:
+    inputs:
+      word:
+        value: "Mars"
